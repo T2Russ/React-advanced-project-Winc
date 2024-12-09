@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgb(24, 62, 74);
+    width: 100%;
+  }
+  
+  .navbar li {
+    font-size: 2rem;
+    color: white;
+    font-weight: 550;
+  }
+  
+  .navbar ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 4rem;
+    padding: 18px;
+    text-align: center;
+  }
